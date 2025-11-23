@@ -38,19 +38,19 @@ client = genai.Client(api_key="YOUR_API_KEY_HERE")
 ```
 ---
 ## 4. Usage
+- **Open the notebook**
+- **Run the setup cells**
+- **Choose cloud or local inference**
+- **Test multimodal image analysis**
+- **Run the chat system**
+- **Try the function-calling examples**
 
-1. Open the notebook
-2. Run setup cells
-3. Use cloud or local inference
-4. Test multimodal image analysis
-5. Run the chat system
-6. Try function calling examples
 
 ---
 ## 5. Notes
 
-1. This project demonstrates a full multimodal pipeline using Gemma 3.
-2. Identical versions of this project are maintained on two GitHub profiles for portfolio visibility.
+- **This project demonstrates a full multimodal pipeline using Gemma 3.**
+- **Identical versions of this project are maintained on two GitHub profiles for portfolio visibility.**
 
 ---
 ## 6. Authors
