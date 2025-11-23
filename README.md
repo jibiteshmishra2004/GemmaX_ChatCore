@@ -18,17 +18,9 @@ A multimodal AI chat system built using **Gemma 3 models**, supporting:
 ## 2. Folder Structure
 GemmaX-ChatCore/
 │
-├── GemmaX_ChatCore.ipynb # Main notebook
-├── assets/ # Image files for multimodal demos
+├── GemmaX_ChatCore.ipynb      # Main notebook
+├── assets/                    # Image files for multimodal demos
 └── README.md
 
 
----
-
-## 3. Requirements
-Install inside the notebook:
-```bash
-pip install google-genai keras keras-hub CurrencyConverter
-
-Copy code
 
