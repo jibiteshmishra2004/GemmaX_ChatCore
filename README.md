@@ -33,8 +33,8 @@ Insert your own key inside the notebook:
 ```python
 client = genai.Client(api_key="YOUR_API_KEY_HERE")
 ```
-
-##4. Usage
+---
+## 4. Usage
 
 1. Open the notebook
 2. Run setup cells
